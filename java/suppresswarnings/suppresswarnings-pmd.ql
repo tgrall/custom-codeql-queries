@@ -18,4 +18,4 @@ from Annotation ann, AnnotationType anntp
 where anntp = ann.getType() 
     and anntp.hasQualifiedName("java.lang", "SuppressWarnings")
     and ann.getValue("value").(CompileTimeConstantExpr).getStringValue().toUpperCase() = "PMD"
-select ann 
+select ann, "Find SuppressWarnings(\"PMD\") annotations"
