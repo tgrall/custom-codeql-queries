@@ -25,4 +25,8 @@ If you keep the suppresswarning note, you should add a comment explaining why th
 
 </recommendation>
 
+<references>
+  <li><a href="https://pmd.github.io/"> PMD Website</a></li>
+</references>
+
 </qhelp>

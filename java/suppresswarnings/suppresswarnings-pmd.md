@@ -9,3 +9,6 @@ If this is a false positive or a bad configuration, you should ask the team resp
 
 If you keep the suppresswarning note, you should add a comment explaining why the warning is suppressed.
 
+
+## References
+* [ PMD Website](https://pmd.github.io/)
