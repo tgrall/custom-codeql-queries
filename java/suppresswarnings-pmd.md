@@ -12,3 +12,6 @@ If you keep the suppresswarning note, you should add a comment explaining why th
 
 ## References
 * [ PMD Website](https://pmd.github.io/)
+* [ Security Office Repository](https://github.com/ghas-toulouse-demo/security-office)
+
+

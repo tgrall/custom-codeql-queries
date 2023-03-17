@@ -27,6 +27,7 @@ If you keep the suppresswarning note, you should add a comment explaining why th
 
 <references>
   <li><a href="https://pmd.github.io/"> PMD Website</a></li>
+  <li><a href="https://github.com/ghas-toulouse-demo/security-office"> Security Office Repository</a></li>
 </references>
 
 </qhelp>
